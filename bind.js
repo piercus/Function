@@ -1,4 +1,4 @@
-define('Function/bind', function() {
+sand.define('Function/bind', function() {
   
   // Really important function
   // binds this to a certain scope, makes it easier to handle closure
