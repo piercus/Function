@@ -1,3 +1,3 @@
 ## Function.prototype augmentations
 
-Just Function.bind for now
+Just Function.bind and Function.curry for now
