@@ -1,0 +1,15 @@
+{
+  "name": "Function",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "Function library helpers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piercus/Function.git"
+  },
+  "author": "Pierre Colle",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+
+}
