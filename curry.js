@@ -1,4 +1,4 @@
-sand.define("Function/curry", function() {
+define("Function/curry", function() {
   //---
   // 
   Function.prototype.curry = function() {
