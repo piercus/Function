@@ -1,5 +1,4 @@
-var rjs = require('requirejs');
-rjs.define("Function/splitCb",function(){
+define("Function/splitCb",function(){
   Function.prototype.splitCb = function(n) {
     var self = this,
       args1 = Array.prototype.slice.call(arguments);
